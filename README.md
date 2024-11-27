@@ -1,6 +1,6 @@
 
 # Bonjour, je suis Aymen Sadaoui ! 
-![phototenuqatar](https://github.com/user-attachments/assets/af4dece0-fe3d-4004-8efa-930574475862)
+<img src="https://github.com/user-attachments/assets/af4dece0-fe3d-4004-8efa-930574475862" height="50" width="50">
 
 
 
