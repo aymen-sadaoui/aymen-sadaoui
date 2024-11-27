@@ -1,6 +1,6 @@
 
 # Bonjour, je suis Aymen Sadaoui ! 
-<img src="https://github.com/user-attachments/assets/145f46bd-23e5-4ae9-9f0a-a9de526a35d3" height="300" width="300">
+<img src="https://github.com/user-attachments/assets/145f46bd-23e5-4ae9-9f0a-a9de526a35d3" height="300" width="800">
 
 
 
