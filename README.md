@@ -1,6 +1,7 @@
-<img src="C:\Users\sadao\Desktop\image fleur" alt="image" style="width: 50%; height: 400px;">
 
-# Bonjour, je suis Aymen Sadaoui ! 👋
+# Bonjour, je suis Aymen Sadaoui ! 🫡![1732703458796](https://github.com/user-attachments/assets/7ad04bf8-bd07-4350-b6b9-98d5e771b5bc)
+
+
 
 Passionné par l'informatique, je suis particulièrement intéressé par la cybersécurité. En dehors de l'info, j'aime également le football et je suis un fervent supporter de l'Olympique de Marseille. J'habite à Marseille, une ville dynamique où l'innovation et la passion se rencontrent.
 
