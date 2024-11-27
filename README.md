@@ -7,7 +7,7 @@
 
 
 
-##### Passionné par l'informatique, je suis particulièrement intéressé par la cybersécurité. En dehors de l'info, j'aime également le football et je suis un fervent supporter de l'Olympique de Marseille. J'habite à Marseille, une ville dynamique où l'innovation et la passion se rencontrent.
+#### Passionné par l'informatique, je suis particulièrement intéressé par la cybersécurité. En dehors de l'info, j'aime également le football et je suis un fervent supporter de l'Olympique de Marseille. J'habite à Marseille, une ville dynamique où l'innovation et la passion se rencontrent.
 
 ## Ce sur quoi je travaille actuellement 🔭
 Je développe des projets en cybersécurité et j'explore de nouvelles technologies pour renforcer la sécurité des systèmes.
