@@ -1,4 +1,4 @@
-<img src="C:\Users\sadao\Downloads\tb5au5z6a5h3jrkut0ju.png" alt="image" style="width : 50%; height: auto;">
+<img src="C:\Users\sadao\Downloads\tb5au5z6a5h3jrkut0ju.png" alt="image" style="width : 50%; height: 400px;">
 
 # Bonjour, je suis Aymen Sadaoui ! 👋
 
